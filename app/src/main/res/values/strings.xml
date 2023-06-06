@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">StoryApp</string>
+    <string name="logout">LogOut\n</string>
+    <string name="email">Email\n</string>
+    <string name="error_email_is_not_valid">Email is not Valid</string>
+    <string name="password">Password\n</string>
+    <string name="error_password_min_8_char">Password must be at least 8 characters</string>
+    <string name="login">Login</string>
+    <string name="do_you_haven_t_an_account">Not a member ?   </string>
+    <string name="register">Register</string>
+    <string name="welcome_back">Welcome to Story App</string>
+    <string name="name">Name</string>
+    <string name="please_input_image">Please Choice Your Image</string>
+    <string name="error_empty_description">Description cannot be Empty</string>
+    <string name="invalid_password">Password is invalid</string>
+    <string name="user_not_found">User Not Found</string>
+    <string name="do_you_have_an_account">Have an Account ?  </string>
+    <string name="email_created">Email Success Created</string>
+    <string name="email_must_valid">Email Must be Valid</string>
+    <string name="photo_story">Story Photo</string>
+    <string name="gallery">Gallery</string>
+    <string name="description">Description</string>
+    <string name="upload">Upload\n</string>
+    <string name="camera">Camera</string>
+    <string name="result_upload">Result of Photo</string>
+    <string name="create_account">Register</string>
+    <string name="add_story">add story</string>
+    <string name="image_auth">Image Login</string>
+    <string name="Login">Login</string>
+</resources>
